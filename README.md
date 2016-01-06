@@ -6,4 +6,6 @@ I bragin to learn how to manage branches!
 
 this is written by dev2!
 
+this is bull shit!
+
 issue---1
